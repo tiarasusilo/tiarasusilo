@@ -8,9 +8,9 @@
 
 #### ⚙️ Software Engineering
 
-I enjoy designing intuitive user experiences and building functional web applications.
+I like turning ideas into simple, useful, and user-friendly digital experiences while continuously learning new technologies along the way.
 
-Feel free to explore my repositories or reach out if you'd like to connect and collaborate!
+Here you can find some of the projects I've worked on during my journey in Information Technology.
 
 ## 🌐 Connect With Me:
 
