@@ -1,5 +1,4 @@
-<h1 align="center">Hai 👋, saya Asya Tiara Syafitrah Susilo</h1>
-<h3 align="center">Mahasiswa Teknologi Informasi yang bersemangat tentang pengembangan perangkat lunak dan UI/UX</h3>
+<h1 align="center">Hi, I'm Asya Tiara Syafitrah Susilo</h1>
 
 - 🌱 Saat ini saya sedang belajar **Desain UI/UX, Pengembangan Frontend, dan Rekayasa Perangkat Lunak**
 
