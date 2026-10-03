@@ -1,12 +1,9 @@
 <h1 align="center">Hi, I'm Asya Tiara Syafitrah Susilo</h1>
 
-- 🌱 Saat ini saya sedang belajar **Desain UI/UX, Pengembangan Frontend, dan Rekayasa Perangkat Lunak**
-
-- 💬 Tanyakan kepada saya tentang **UI/UX, Pengembangan Frontend, dan Pengembangan Web**
-
-- 📫 Cara menghubungi saya **tiarasusilo12@gmail.com**
-
-- ⚡ Fakta menarik **Saya tidak menemukan bug, bug yang menemukan saya**
+🌱 Currently exploring UI/UX Design, Frontend Development, and Software Engineering
+💬 Feel free to ask me about UI/UX, Frontend Development, and Web Development
+📫 Reach me at tiarasusilo12@gmail.com
+⚡ Fun fact: I don't find bugs; bugs find me.
 
 <h3 align="left">Terhubung dengan saya:</h3>
 <p align="left">
