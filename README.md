@@ -99,11 +99,3 @@ I'm continuously learning new technologies, improving my skills, and building pr
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:EC4899&height=100&section=footer" width="100%" />
 
 </div>
-
-### ✧ Thanks for stopping by! ✧
-
-*Still learning, still building, still figuring things out.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:EC4899&height=100&section=footer" width="100%" />
-
-</div>
